@@ -20,7 +20,7 @@ License
 Installation:
 
 1.Clone the repository:
-git clone https://github.com/your-username/california-housing-price-prediction.git
+git clone https://github.com/payaswini126/Linear-Regression.git
 cd california-housing-price-prediction
 
 2.Install the required Python packages:
